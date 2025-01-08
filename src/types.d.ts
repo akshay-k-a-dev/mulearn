@@ -2,7 +2,7 @@
 
 type UseStateFunc<T> = React.Dispatch<React.SetStateAction<T>>;
 type FC<T> = React.FC<T>;
-
+//define roles
 type Role =
     typeof import("./services/types").roles[keyof typeof import("./services/types").roles];
 
