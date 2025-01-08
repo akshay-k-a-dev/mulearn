@@ -101,4 +101,4 @@ See `contributing.md` for ways to get started.
 
 ## Quality Tester
 
--   If you are a Quality Tester, you can verify the dev-server branch for testing the upcoming features and the production branch for features which are already in production.
+-   If you are a Quality Tester, you can verify the dev-server branch for testing the upcoming features and the production branch for features which are already in production!.
